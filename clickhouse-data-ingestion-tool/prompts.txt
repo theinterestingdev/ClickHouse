@@ -1,0 +1,28 @@
+# AI Assistance Used During Project Development
+
+
+## Project Structure & Setup
+- "Help me design a project structure for a ClickHouse data ingestion tool with Flask backend"
+- "Create a Docker Compose configuration for a Flask and ClickHouse application"
+
+## Backend Development
+- "Generate boilerplate code for a Flask API that connects to ClickHouse"
+- "How to implement efficient data transfer between ClickHouse and CSV files"
+- "Help with implementing a table join feature using ClickHouse SQL"
+
+## Frontend Development
+- "Create HTML/CSS structure for a data ingestion interface"
+- "JavaScript code for dynamic form elements based on table selection"
+- "Implement error handling for form submissions"
+
+## Scripts & Utilities
+- "Create sample data for testing ClickHouse tables"
+- "Write bash and batch scripts for setting up test data"
+
+
+- Customized and expanded all generated code
+- Debugged and fixed implementation issues
+- Created the application architecture
+- Designed the user experience
+- Tested and optimized the application
+
